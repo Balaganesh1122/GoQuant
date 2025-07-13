@@ -9,7 +9,7 @@ A sophisticated, real-time cryptocurrency risk management and hedging platform b
 
 ## 🚀 Live Demo
 
-**Deployed Application:** [https://keen-valkyrie-90f7d7.netlify.app](https://keen-valkyrie-90f7d7.netlify.app)
+**Deployed Application:** [https://balaganeshgoquant.netlify.app/](https://balaganeshgoquant.netlify.app/)
 
 ## 📋 Table of Contents
 
